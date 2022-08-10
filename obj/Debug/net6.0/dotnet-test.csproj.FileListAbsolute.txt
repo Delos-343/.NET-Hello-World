@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\dotnet-test\bin\Debug\net6.0\dotnet-test.exe
+C:\Users\lenovo\Desktop\dotnet-test\bin\Debug\net6.0\dotnet-test.deps.json
+C:\Users\lenovo\Desktop\dotnet-test\bin\Debug\net6.0\dotnet-test.runtimeconfig.json
+C:\Users\lenovo\Desktop\dotnet-test\bin\Debug\net6.0\dotnet-test.dll
+C:\Users\lenovo\Desktop\dotnet-test\bin\Debug\net6.0\dotnet-test.pdb
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\dotnet-test.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\dotnet-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\dotnet-test.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\dotnet-test.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\dotnet-test.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\dotnet-test.dll
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\refint\dotnet-test.dll
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\dotnet-test.pdb
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\dotnet-test.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\dotnet-test\obj\Debug\net6.0\ref\dotnet-test.dll
